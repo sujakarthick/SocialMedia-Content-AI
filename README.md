@@ -137,6 +137,6 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 ## 🚢 Deployment to Vercel
 
 1. Push your repository to GitHub / GitLab.
-2. Import the project into [Vercel](social-media-content-ai.vercel.app).
+2. Import the project into social-media-content-ai.vercel.app
 3. Set the Environment Variables (`GEMINI_API_KEY`, `RAZORPAY_KEY_ID`, `RAZORPAY_KEY_SECRET`, `RAZORPAY_WEBHOOK_SECRET`, `NEXT_PUBLIC_SUPABASE_URL`, `NEXT_PUBLIC_SUPABASE_ANON_KEY`, `SUPABASE_SERVICE_ROLE_KEY`).
 4. Click **Deploy**.
